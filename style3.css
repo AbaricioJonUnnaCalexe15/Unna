@@ -5,3 +5,27 @@ body{
     background-attachment: fixed;
     background-size: cover;
 }
+h4{
+    background-color: blanchedalmond;
+    display: inline;
+}
+h1{
+    background-color: azure;
+    display: inline;
+}
+h2{
+    background-color: blanchedalmond;
+    display: inline;
+}
+h3{
+    background-color: azure;
+    display: inline;
+}
+blockquote{
+    background-color: azure;
+    display: inline;
+}
+p {
+    background-color: olive;
+    display: inline;
+}
